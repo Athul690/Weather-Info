@@ -32,9 +32,8 @@ Built with a clean architecture and minimal dependencies.
 ## 📦 Installation
 
 ```bash id="tq7y2m"
-git clone https://github.com/your-username/kerala-weather-tool.git
-cd kerala-weather-tool
-pip install -r requirements.txt
+git clone https://github.com/Athul690/Weather-Info.git
+cd Weather-Info
 ```
 
 ---
