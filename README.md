@@ -17,15 +17,21 @@ Built with a clean architecture and minimal dependencies.
 
 ## 🖼️ Interface Preview
 
-![App Interface](https://i.ibb.co/yc1mkzpj/Whats-App-Image-2026-05-02-at-3-43-16-PM.jpg)
+<p align="center">
+  <img src="https://i.ibb.co/yc1mkzpj/Whats-App-Image-2026-05-02-at-3-43-16-PM.jpg" width="600" style="border:1px solid #ccc; border-radius:8px;"/>
+</p>
 
-![CLI Output](https://i.ibb.co/XrkvKJmW/Whats-App-Image-2026-05-02-at-3-43-16-PM-1.jpg)
+## 🖥️ Output Preview
+
+<p align="center">
+  <img src="https://i.ibb.co/XrkvKJmW/Whats-App-Image-2026-05-02-at-3-43-16-PM-1.jpg" width="600" style="border:1px solid #ccc; border-radius:8px;"/>
+</p>
 
 ---
 
 ## 📦 Installation
 
-```bash id="q8g2lm"
+```bash id="tq7y2m"
 git clone https://github.com/your-username/kerala-weather-tool.git
 cd kerala-weather-tool
 pip install -r requirements.txt
@@ -35,7 +41,7 @@ pip install -r requirements.txt
 
 ## ▶️ Usage
 
-```bash id="c6z9xr"
+```bash id="m4z8xp"
 python main.py
 ```
 
